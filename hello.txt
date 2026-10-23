@@ -4,4 +4,4 @@ HEAD
 Main branch edit
 Feature branch conflicting edit
 feature-branch
-is it
+is it...
